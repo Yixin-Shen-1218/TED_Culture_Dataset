@@ -7,11 +7,11 @@ If you have any questions or comments, please feel free to contact me by email (
 
 
 
-You can download [the preprocessed TED Culture Dataset](a) (16GB) [TO DO]
+You can download [the preprocessed TED Culture Dataset](a) (xxx GB) [TO DO]
 
 
 
-Except for the method to download the source video and subtitles, **TED_video_download.py**, we follow the data collection pipeline of TED Expressive by Liu et al. You can find the details of the TED Expressive dataset [here](https://github.com/alvinliu0/HA2G/blob/main/dataset_script/README.md). Our dataset is multilingual and includes new features, such as 3D upper body keypoint annotations with fine-grained finger details.
+Except for the method to download the source video and auto-generated subtitles using **TED_video_download.py**, we follow the data collection pipeline of TED Expressive by Liu et al. You can find the details of the TED Expressive dataset [here](https://github.com/alvinliu0/HA2G/blob/main/dataset_script/README.md). Our dataset is multilingual and includes new features, such as 3D upper body keypoint annotations with fine-grained finger details.
 
 
 
@@ -120,3 +120,10 @@ Except for the method to download the source video and subtitles, **TED_video_do
 <div align="center">
 	<img src="Language_Distribution.png" width="80%" height="80%">
 </div>
+
+
+
+
+## Acknowledgement
+
+The codebase is developed based on [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://github.com/alvinliu0/HA2G) of Liu et al.
