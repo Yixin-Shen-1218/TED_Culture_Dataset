@@ -117,4 +117,6 @@ Except for the method to download the source video and subtitles, **TED_video_do
 
 ##### Language Distribution of the TED-Culture Dataset
 
-![Distribution](.\Language_Distribution.png)
+<div align="center">
+	<img src="Language_Distribution.png" width="80%" height="80%">
+</div>
