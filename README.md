@@ -1,5 +1,5 @@
-# TED Culture Dataset
-This repository contains scripts to build *TED Culture Dataset*. You can download Youtube videos and transcripts, divide the videos into scenes, and extract human poses.
+# TED-Culture Dataset
+This repository contains scripts to build *TED-Culture Dataset*. You can download Youtube videos and transcripts, divide the videos into scenes, and extract human poses.
 
 
 
@@ -7,7 +7,7 @@ If you have any questions or comments, please feel free to contact me by email (
 
 
 
-You can download [the preprocessed TED Culture Dataset](a) (xxx GB) [TO DO]
+You can download [the preprocessed TED-Culture Dataset](a) (xxx GB) [TO DO]
 
 
 
@@ -15,7 +15,7 @@ Except for the method to download the source video and auto-generated subtitles 
 
 
 
-## Statistics of TED Culture Dataset
+## Statistics of TED-Culture Dataset
 
 #### Source of the TED-Culture Dataset
 
