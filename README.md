@@ -3,7 +3,7 @@ This repository contains scripts to build *TED-Culture Dataset*. You can downloa
 
 
 
-If you have any questions or comments, please feel free to contact me by email ([yixishen1@student.unimelb.edu.au](mailto:yixishen1@gmail.com)).
+If you have any questions or comments, please feel free to contact me by email ([yixishen1@gmail.com](mailto:yixishen1@gmail.com)).
 
 
 
