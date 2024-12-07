@@ -7,7 +7,7 @@ If you have any questions or comments, please feel free to contact me by email (
 
 
 
-You can download [the preprocessed TED-Culture Dataset]((https://zenodo.org/records/14293319) (12.1 GB)
+You can download [the preprocessed TED-Culture Dataset](https://zenodo.org/records/14293319) (12.1 GB)
 
 
 
